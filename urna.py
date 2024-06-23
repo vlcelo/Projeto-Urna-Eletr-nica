@@ -1,6 +1,6 @@
 import random
 
-# Função para gerar nomes aleatórios
+# Função em tupla para gerar nomes aleatórios
 def gerar_nome(tipo):
     primeiro_nome = ("João", "Maria", "José", "Ana", "Carlos", "Paula", "Pedro", "Mariana", "Lucas", "Fernanda")
     sobrenome = ("Silva", "Santos", "Oliveira", "Pereira", "Costa", "Rodrigues", "Almeida", "Nascimento", "Lima", "Souza")
